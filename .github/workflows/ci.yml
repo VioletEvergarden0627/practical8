@@ -37,4 +37,4 @@ with:
 name: code-coverage-report
 path: build/reports/jacoco/test/html/**
 - name: Run Deployment
-run: java -jar build/libs/pratical8-V1.jar
+run: java -jar build/libs/p8-V1.jar
