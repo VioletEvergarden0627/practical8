@@ -27,7 +27,7 @@ finalizedBy jacocoTestReport
 }
 jar {
 manifest {
-attributes 'Main-Class': 'com.example.p8'
+attributes 'Main-Class': 'com.example.HelloWorld'
 }
 from sourceSets.main.output // Include compiled classes in the JAR
 archiveBaseName = 'p8' // Name of the JAR file
